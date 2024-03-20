@@ -1,5 +1,296 @@
 # --- This file contains the references table data.
 
+# Octrees
+
+[eisenwave-sparse-voxel-octree]
+title = "Sparse Voxel Octree"
+url = "https://eisenwave.github.io/voxel-compression-docs/svo/svo.html"
+
+[eaosvofrtrt]
+title = "Efficient Animation of Sparse Voxel Octrees for Real-Time Ray Tracing"
+url = "https://arxiv.org/pdf/1911.06001.pdf"
+
+[nvidia-efficient-sparse-voxel-octrees]
+title = "Efficient Sparse Voxel Octrees"
+url = "https://research.nvidia.com/sites/default/files/pubs/2010-02_Efficient-Sparse-Voxel/laine2010i3d_paper.pdf"
+
+[nvidia-efficient-sparse-voxel-octrees-aei]
+title = "Efficient Sparse Voxel Octrees – Analysis, Extensions, and Implementation"
+url = "https://research.nvidia.com/sites/default/files/pubs/2010-02_Efficient-Sparse-Voxel/laine2010tr1_paper.pdf"
+
+[geidav-advanced-octrees-1-pisamtd]
+title = "Advanced Octrees 1: Preliminaries, insertion strategies and maximum tree depth"
+url = "https://geidav.wordpress.com/2014/07/18/advanced-octrees-1-preliminaries-insertion-strategies-and-max-tree-depth/"
+
+[geidav-advanced-octrees-2-node-representations]
+title = "Advanced Octrees 2: Node representations"
+url = "https://geidav.wordpress.com/2014/08/18/advanced-octrees-2-node-representations/"
+
+[eurographics-octree-based-point-cloud-compression]
+title = "Octree-based Point-Cloud Compression"
+url = "https://diglib.eg.org/xmlui/bitstream/handle/10.2312/SPBG.SPBG06.111-120/111-120.pdf?sequence=1"
+
+[shadertoy-4sVfWw]
+title = "Random Voxel Octree Raycasting"
+url = "https://www.shadertoy.com/view/4sVfWw"
+
+[youtube-NjCp-HIZTcA]
+title = "Sparse Voxel Octrees"
+url = "https://www.youtube.com/watch?v=NjCp-HIZTcA"
+
+[youtube-gNZtx3ijjpo]
+title = "Animated Sparse Voxel Octrees: In-depth pt1/3"
+url = "https://www.youtube.com/watch?v=gNZtx3ijjpo"
+
+[youtube-XkSS_veoSg0]
+title = "Sparse Voxel Octree and Polygon hybrid"
+url = "https://www.youtube.com/watch?v=XkSS_veoSg0"
+
+# DAGs
+
+[eurographics-geometry-and-attribute-compression-for-voxel-scenes]
+title = "Geometry and Attribute Compression for Voxel Scenes"
+url = "https://graphics.tudelft.nl/Publications-new/2016/DKBTE16/voxel_compression.pdf"
+
+[tudelft-lossy-geometry-compression-for-high-resolution-voxel-scenes]
+title = "Lossy Geometry Compression for High Resolution Voxel Scenes"
+url = "https://graphics.tudelft.nl/Publications-new/2020/VSE20/LossyGeometryCompressionForHighResolutionVoxelScenes.pdf"
+
+[high-resolution-sparse-voxel-dags]
+title = "High Resolution Sparse Voxel DAGs"
+url = "https://www.cse.chalmers.se/~uffe/HighResolutionSparseVoxelDAGs.pdf"
+doi = "10.1145/2461912.2462024"
+
+[phyronnaz-hashdag]
+title = "Hash DAG Implementation"
+url = "https://github.com/Phyronnaz/HashDAG"
+
+[brentwilliams-moxel-dags]
+title = "Moxel DAGs: Connecting Material Information to High Resolution Sparse Voxel DAGs"
+url = "https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=2567&context=theses"
+
+# Ray-Voxel intersection
+
+[amanatides-and-woo]
+title = "A Fast Voxel Traversal Algorithm for Ray Tracing"
+url = "http://www.cse.yorku.ca/~amana/research/grid.pdf"
+
+[dda-gist]
+title = " Implementation of voxel traversal algorithm from 'A Fast Voxel Traversal Algorithm for Ray Tracing' (Amanatides and Woo)"
+url = "https://gist.github.com/garymacindoe/895430c1e53a6e50cb35"
+
+[wscg-splat-based-ray-tracing-of-point-clouds]
+title = "Splat-based Ray Tracing of Point Clouds"
+url = "https://dspace5.zcu.cz/bitstream/11025/1426/1/Linsen.pdf"
+
+[cit-ray-tracing-complex-scenes]
+title = "Slab method and original paper"
+url = "https://dl.acm.org/doi/pdf/10.1145/15886.15916"
+wiki = "https://en.wikipedia.org/wiki/Slab_method"
+
+[utrecht-real-time-ray-tracing-and-editing-of-large-voxel-scenes]
+title = "Real-time Ray tracing and Editing of Large Voxel Scenes"
+url = "https://studenttheses.uu.nl/bitstream/handle/20.500.12932/20460"
+doi = "20.500.12932/20460"
+
+[nvidia-gvdb-raytracing-sparse-voxels]
+title = "GVDB: Raytracing Sparse Voxel Database Structures on the GPU"
+url = "http://ramakarl.com/pdfs/2016_Hoetzlein_GVDB.pdf"
+
+[balintcsala-voxel-tracing]
+title = "Voxel tracing with interactive examples"
+url = "https://blog.balintcsala.com/posts/voxel-tracing/"
+
+[frtorvdudt]
+title = "Fast ray-tracing of rectilinear volume data using distance transforms"
+url = "https://www.researchgate.net/publication/3410902_Fast_ray-tracing_of_rectilinear_volume_data_using_distance_transforms"
+
+[cuda-brickmap-pathtracer]
+title = "stijnherfst/BrickMap: A high performance realtime CUDA voxel path tracer"
+url = "https://github.com/stijnherfst/BrickMap"
+
+[castingrays-voxel-rendering-using-discrete-ray]
+title = ""
+url = "https://castingrays.blogspot.com/2014/01/voxel-rendering-using-discrete-ray.html"
+
+[xna-wiki-voxel-traversal]
+title = "Voxel Traversal - XNA Wiki"
+url = "https://web.archive.org/web/20121024081332/www.xnawiki.com/index.php?title=Voxel_traversal"
+
+[shadertoy-XddcWn]
+title = "A Fast Voxel Traversal Algorithm"
+url = "https://www.shadertoy.com/view/XddcWn"
+
+[voxel-traversal-algorithm-ray-casting]
+title = "Voxel Traversal Algorithm (Ray Casting) - 3D, AI, procedural generation and black jack"
+url = "https://www.gamedev.net/blogs/entry/2265248-voxel-traversal-algorithm-ray-casting/"
+
+[pcaatf3dgt]
+title = "Proximity clouds - an acceleration technique for 3D grid traversal"
+url = "https://www.academia.edu/59726413/Proximity_clouds_an_acceleration_technique_for_3D_grid_traversal"
+
+[mvafaggtagtitrhtavmcm]
+title = "Macro-voxel algorithm for adaptive grid generation to accelerate grid traversal in the radiative heat transfer analysis via Monte Carlo method - ScienceDirect"
+url = "https://www.sciencedirect.com/science/article/abs/pii/S0735193317301598"
+
+[jcgt-a-ray-box-intersection-algorithm]
+title = "A Ray-Box Intersection Algorithm and Efficient Dynamic Voxel Rendering"
+url = "https://jcgt.org/published/0007/03/04/paper-lowres.pdf"
+
+[raymarching-voxels-inside-cube]
+title = "kallisto56/Raymarching-voxels-inside-cube: Shaders for raymarching voxels inside cube using fragment shader"
+url = "https://github.com/kallisto56/Raymarching-voxels-inside-cube"
+
+# Culling
+
+[frustum]
+title = "Frustum calculation and culling, HOPEFULLY demystified."
+url = "http://davidlively.com/programming/graphics/frustum-calculation-and-culling-hopefully-demystified/"
+
+[minecraft-cave-culling]
+title = "The Advanced Cave Culling Algorithm™, or, making Minecraft faster"
+url = "https://tomcc.github.io/2014/08/31/visibility-1.html"
+
+[minecraft-cave-culling-cont]
+title = "The Advanced Cave Culling Algorithm™ Part 2 - Traversing the graph"
+url = "https://tomcc.github.io/2014/08/31/visibility-2.html"
+
+[lighthouse3d-view-frustum-culling]
+title = ""
+url = "http://www.lighthouse3d.com/tutorials/view-frustum-culling"
+
+[gamedev-archive-culling]
+title = ""
+url = "https://archive.gamedev.net/archive/reference/programming/features/culling/index.html"
+
+[bruop-frustum-culling]
+title = ""
+url = "https://bruop.github.io/frustum_culling/"
+
+[frustum-culling-tutorial]
+title = "View Frustum Culling Tutorial"
+url = "https://cgvr.cs.uni-bremen.de/teaching/cg_literatur/lighthouse3d_view_frustum_culling/index.html"
+
+[opengl-learn-face-culling]
+title = "Learn OpenGL: Face Culling"
+url = "https://learnopengl.com/Advanced-OpenGL/Face-culling"
+
+[opengl-learn-frustum-culling]
+title = "Learn OpenGL: Frustum Culling"
+url = "https://learnopengl.com/Guest-Articles/2021/Scene/Frustum-Culling"
+
+# Terrain/Noise
+
+[terrain-from-noise]
+title = "Making maps with noise functions"
+url = "https://www.redblobgames.com/maps/terrain-from-noise/"
+
+[silverlight-real-time-3d-perlin-noise]
+title = "An Oscar Algorithm - Silverlight Real-time 3D Perlin Noise"
+url = "http://kodierer.blogspot.com/2009/05/oscar-algorithm-silverlight-real-time.html"
+
+[dreamincode-perlin-noise]
+title = "A simple explanation on Perlin Noise"
+url = "https://web.archive.org/web/20190817183819/http://www.dreamincode.net/forums/topic/66480-perlin-noise/"
+
+[planetsourcecode-csharp-d3d-random-planet-generator]
+title = "C# D3D Random Planet Generator - Perlin Noise Demo"
+url = "https://web.archive.org/web/20141226072119/http://www.planet-source-code.com/vb/scripts/ShowCode.asp?txtCodeId=1524&lngWId=10"
+
+[lotsacode-perlin-noise-in-c]
+title = ""
+url = "http://lotsacode.wordpress.com/2010/02/24/perlin-noise-in-c/"
+
+[wikimedia-pinkredliquid-perlin]
+title = ""
+url = "https://en.wikipedia.org/wiki/File:Pink_red_liquid_using_perlin_noise_%2B_bump_%2B_coloring_(2415197699).png"
+
+[wikimedia-dissolve-noise-texture]
+title = ""
+url = "https://commons.wikimedia.org/wiki/File:256x256_Dissolve_Noise_Texture.png"
+
+[wikipedia-perlin-noise]
+title = ""
+url = "https://en.wikipedia.org/wiki/Perlin_noise"
+
+[fastnoise2]
+title = "Modular node graph based noise generation library using SIMD, C++17 and templates"
+url = "https://github.com/Auburn/FastNoise2"
+
+[fastnoiselite]
+title = "Fast Portable Noise Library - C# C++ C Java HLSL GLSL JavaScript Rust Go"
+url = "https://github.com/Auburn/FastNoiseLite"
+
+[opensimplex2]
+title = "Successors to OpenSimplex Noise, plus updated OpenSimplex"
+url = "https://github.com/KdotJPG/OpenSimplex2"
+
+[jlibnoise]
+title = "A Java port of libnoise - A portable, open-source, coherent noise-generating library"
+url = "https://github.com/Sleaker/jlibnoise"
+
+[psrdnoise]
+title = "Tiling simplex flow noise in 2-D and 3-D compatible with GLSL 1.20 (WebGL 1.0) and above"
+url = "https://github.com/stegu/psrdnoise/"
+
+[github-topic-perlin]
+title = "GitHub Topic: Perlin Noise"
+url = "https://github.com/topics/perlin"
+
+[hiteshkrsahu-voxel-planets]
+title = "Generating Voxel Planet using 3D Simplex Noise"
+url = "https://hiteshkrsahu.medium.com/generating-voxel-planet-using-3d-simplex-noise-3ab011fd88ec"
+
+[libnoise]
+title = "LibNoise"
+url = "https://libnoise.sourceforge.net"
+
+[libnoise-modules]
+title = "LibNoise: Modules"
+url = "https://libnoise.sourceforge.net/docs/modules.html"
+
+[libnoise-glossary]
+title = "LibNoise: Glossary"
+url = "https://libnoise.sourceforge.net/glossary/index.html"
+
+[noiseposting-the-perlin-problem]
+title = "The Perlin Problem: Moving Past Square Noise"
+url = "https://noiseposti.ng/posts/2022-01-16-The-Perlin-Problem-Moving-Past-Square-Noise.html"
+
+[bookofshaders-noise]
+title = "The Book Of Shaders: Noise"
+url = "https://thebookofshaders.com/11/"
+
+[bookofshaders-morenoise]
+title = "The Book Of Shaders: More Noise"
+url = "https://thebookofshaders.com/12/"
+
+[movingblocks-goodbye-perlin]
+title = "Goodbye Perlin Noise"
+url = "https://web.archive.org/web/20151122204631/https://blog.movingblocks.net/2011/06/11/goodbye-perlin-noise-2d-perlin-noise-3d/"
+
+[simplex-noise-demystified]
+title = "Simplex noise demystified"
+url = "https://web.archive.org/web/20230310204125if_/https://webstaff.itn.liu.se/~stegu/simplexnoise/simplexnoise.pdf"
+
+[youtube-ZsEnnB2wrbI]
+title = "How to turn a few Numbers into Worlds (Fractal Perlin Noise)"
+url = "https://www.youtube.com/watch?v=ZsEnnB2wrbI"
+
+[youtube-zXsWftRdsvU]
+title = "Value Noise Explained!"
+url = "https://www.youtube.com/watch?v=zXsWftRdsvU"
+
+[unity-turbulence-library]
+title = "Turbulence Library - Massive collection of complex and fast noise on the GPU"
+url = "https://forum.unity.com/threads/turbulence-library-massive-collection-of-complex-and-fast-noise-on-the-gpu.143649/"
+
+[farazzshaikh-glnoise]
+title = "FarazzShaikh/glNoise: A collection of GLSL noise functions for use with WebGL with an easy to use API."
+url = "https://github.com/FarazzShaikh/glNoise"
+
+# Minecraft-adjacent
+
 [0fps-an-analysis-of-minecraft-like-engines]
 title = "An Analysis of Minecraft-like Engines"
 url = "http://0fps.wordpress.com/2012/01/14/an-analysis-of-minecraft-like-engines/"
@@ -12,27 +303,9 @@ url = "https://0fps.net/2012/06/30/meshing-in-a-minecraft-game/"
 title = "Ambient occlusion for Minecraft-like worlds"
 url = "https://0fps.net/2013/07/03/ambient-occlusion-for-minecraft-like-worlds/"
 
-[dwarffortress-wiki-pressure]
-title = "Pressure - Dwarf Fortress Wiki"
-url = "http://dwarffortresswiki.org/index.php/Pressure"
-#url = "http://dwarffortresswiki.org/index.php/v0.31:Pressure"
-
-[dwarffortress-wiki-water]
-title = "Water - Dwarf Fortress Wiki"
-url = "http://dwarffortresswiki.org/index.php/Water"
-#url = "http://dwarffortresswiki.org/index.php/v0.31:Water"
-
 [unity-forum-after-playing-minecraft]
 title = "After playing minecraft... - Unity Forums"
 url = "http://forum.unity3d.com/threads/63149-After-playing-minecraft"
-
-[jmonkeyengine-a-block-world-framework]
-title = "Cubes - A Block World Framework - jMonkeyEngine Hub"
-url = "http://hub.jmonkeyengine.org/t/cubes-a-block-world-framework-update-preview/25002"
-
-[silverlight-real-time-3d-perlin-noise]
-title = "An Oscar Algorithm - Silverlight Real-time 3D Perlin Noise"
-url = "http://kodierer.blogspot.com/2009/05/oscar-algorithm-silverlight-real-time.html"
 
 [minecraft]
 title = "Minecraft"
@@ -86,14 +359,6 @@ url = "https://go.ftb.team/discord"
 title = "QuiltMC"
 url = "https://quiltmc.org/"
 
-[minecraft-cave-culling]
-title = "The Advanced Cave Culling Algorithm™, or, making Minecraft faster"
-url = "https://tomcc.github.io/2014/08/31/visibility-1.html"
-
-[minecraft-cave-culling-cont]
-title = "The Advanced Cave Culling Algorithm™ Part 2 - Traversing the graph"
-url = "https://tomcc.github.io/2014/08/31/visibility-2.html"
-
 [minecraft-curseforge]
 title = "Minecraft on CurseForge"
 url = "https://www.curseforge.com/minecraft/"
@@ -114,6 +379,50 @@ url = "http://optifog.blogspot.com/2011/08/understanding-minecraft-performance.h
 title = "Planet Minecraft"
 url = "https://www.planetminecraft.com/"
 
+[reddit-minecraft-hsqpt-a-few-technical-ideas]
+title = "Few technical ideas for minecraft from a programmer"
+url = "http://www.reddit.com/r/Minecraft/comments/hsqpt/few_technical_ideas_for_minecraft_from_a/"
+
+[how-to-improve-bloxel-rendering-speed]
+title = "How can I improve rendering speeds of a Voxel/Minecraft type game?"
+url = "https://gamedev.stackexchange.com/questions/22664/how-can-i-improve-rendering-speeds-of-a-voxel-minecraft-type-game"
+
+[youtube-YyVAaJqYAfE]
+title = "How Minecraft ACTUALLY Works 💎⛏️"
+url = "https://www.youtube.com/watch?v=YyVAaJqYAfE"
+
+[minecraft-resourcepack-js]
+title = "@xmcl/resourcepack - npm"
+url = "https://www.npmjs.com/package/@xmcl/resourcepack?ref=morioh.com&utm_source=morioh.com"
+
+[minecraft-resourcepack-rs]
+title = "Parsing Minecraft asset files and resource packs in Rust."
+url = "https://github.com/BGR360/minecraft-assets-rs"
+
+[minecraft-mca-parser-rs]
+title = "mca-parser:  A library for parsing Minecraft's region files"
+url = "https://crates.io/crates/mca-parser"
+
+[youtube-ob3VwY4JyzE]
+title = "Reinventing Minecraft world generation by Henrik Kniberg"
+url = "https://www.youtube.com/watch?v=ob3VwY4JyzE"
+
+# Unsorted
+
+[dwarffortress-wiki-pressure]
+title = "Pressure - Dwarf Fortress Wiki"
+url = "http://dwarffortresswiki.org/index.php/Pressure"
+#url = "http://dwarffortresswiki.org/index.php/v0.31:Pressure"
+
+[dwarffortress-wiki-water]
+title = "Water - Dwarf Fortress Wiki"
+url = "http://dwarffortresswiki.org/index.php/Water"
+#url = "http://dwarffortresswiki.org/index.php/v0.31:Water"
+
+[jmonkeyengine-a-block-world-framework]
+title = "Cubes - A Block World Framework - jMonkeyEngine Hub"
+url = "http://hub.jmonkeyengine.org/t/cubes-a-block-world-framework-update-preview/25002"
+
 [longor-voxel-palette-compression-reddit]
 title = "Palette-based compression for chunked discrete voxel data"
 url = "https://www.longor.net/articles/voxel-palette-compression-reddit"
@@ -133,10 +442,6 @@ url = "http://w-shadow.com/blog/2009/09/01/simple-fluid-simulation/"
 [polygon-map-generation]
 title = "Polygonal Map Generation for Games"
 url = "http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/"
-
-[reddit-minecraft-hsqpt-a-few-technical-ideas]
-title = "Few technical ideas for minecraft from a programmer"
-url = "http://www.reddit.com/r/Minecraft/comments/hsqpt/few_technical_ideas_for_minecraft_from_a/"
 
 [reddit-vgd-qubicle-loader-renderer-cpp]
 title = "Qubicle loader/renderer C++"
@@ -186,14 +491,6 @@ url = "https://web.archive.org/web/20170608094557/https://www.seedofandromeda.co
 title = "Seed Of Andromeda - Fast Flood Fill Lighting in a Blocky Voxel Game: Pt 2"
 url = "https://web.archive.org/web/20170608094541/https://www.seedofandromeda.com/blogs/30-fast-flood-fill-lighting-in-a-blocky-voxel-game-pt-2"
 
-[dreamincode-perlin-noise]
-title = "A simple explanation on Perlin Noise"
-url = "https://web.archive.org/web/20190817183819/http://www.dreamincode.net/forums/topic/66480-perlin-noise/"
-
-[planetsourcecode-csharp-d3d-random-planet-generator]
-title = "C# D3D Random Planet Generator - Perlin Noise Demo"
-url = "https://web.archive.org/web/20141226072119/http://www.planet-source-code.com/vb/scripts/ShowCode.asp?txtCodeId=1524&lngWId=10"
-
 [juandiegomontoya-teardown-breakdown]
 title = "Teardown Teardown"
 url = "https://juandiegomontoya.github.io/teardown_breakdown.html"
@@ -218,68 +515,9 @@ url = "https://nickmcd.me/2021/04/04/high-performance-voxel-engine/"
 title = "Voxel terrain renderer with OpenGL"
 url = "https://sites.google.com/view/3dvoxelgame/terrain-renderer"
 
-[high-resolution-sparse-voxel-dags]
-title = "High Resolution Sparse Voxel DAGs"
-url = "https://www.cse.chalmers.se/~uffe/HighResolutionSparseVoxelDAGs.pdf"
-doi = "10.1145/2461912.2462024"
-
-[phyronnaz-hashdag]
-title = "Hash DAG Implementation"
-url = "https://github.com/Phyronnaz/HashDAG"
-
-[eurographics-geometry-and-attribute-compression-for-voxel-scenes]
-title = "Geometry and Attribute Compression for Voxel Scenes"
-url = "https://graphics.tudelft.nl/Publications-new/2016/DKBTE16/voxel_compression.pdf"
-
-[tudelft-lossy-geometry-compression-for-high-resolution-voxel-scenes]
-title = "Lossy Geometry Compression for High Resolution Voxel Scenes"
-url = "https://graphics.tudelft.nl/Publications-new/2020/VSE20/LossyGeometryCompressionForHighResolutionVoxelScenes.pdf"
-
-[brentwilliams-moxel-dags]
-title = "Moxel DAGs: Connecting Material Information to High Resolution Sparse Voxel DAGs"
-url = "https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=2567&context=theses"
-
 [eurographics-modifying-compressed-voxels]
 title = "Interactively Modifying Compressed Sparse Voxel Representations"
 url = "https://graphics.tudelft.nl/Publications-new/2020/CBE20/ModifyingCompressedVoxels-main.pdf"
-
-[nvidia-efficient-sparse-voxel-octrees]
-title = "Efficient Sparse Voxel Octrees"
-url = "https://research.nvidia.com/sites/default/files/pubs/2010-02_Efficient-Sparse-Voxel/laine2010i3d_paper.pdf"
-
-[nvidia-efficient-sparse-voxel-octrees-aei]
-title = "Efficient Sparse Voxel Octrees – Analysis, Extensions, and Implementation"
-url = "https://research.nvidia.com/sites/default/files/pubs/2010-02_Efficient-Sparse-Voxel/laine2010tr1_paper.pdf"
-
-[geidav-advanced-octrees-1-pisamtd]
-title = "Advanced Octrees 1: Preliminaries, insertion strategies and maximum tree depth"
-url = "https://geidav.wordpress.com/2014/07/18/advanced-octrees-1-preliminaries-insertion-strategies-and-max-tree-depth/"
-
-[geidav-advanced-octrees-2-node-representations]
-title = "Advanced Octrees 2: Node representations"
-url = "https://geidav.wordpress.com/2014/08/18/advanced-octrees-2-node-representations/"
-
-[eurographics-octree-based-point-cloud-compression]
-title = "Octree-based Point-Cloud Compression"
-url = "https://diglib.eg.org/xmlui/bitstream/handle/10.2312/SPBG.SPBG06.111-120/111-120.pdf?sequence=1"
-
-[wscg-splat-based-ray-tracing-of-point-clouds]
-title = "Splat-based Ray Tracing of Point Clouds"
-url = "https://dspace5.zcu.cz/bitstream/11025/1426/1/Linsen.pdf"
-
-[jcgt-a-ray-box-intersection-algorithm]
-title = "A Ray-Box Intersection Algorithm and Efficient Dynamic Voxel Rendering"
-url = "https://jcgt.org/published/0007/03/04/paper-lowres.pdf"
-
-[cit-ray-tracing-complex-scenes]
-title = "Slab method and original paper"
-url = "https://dl.acm.org/doi/pdf/10.1145/15886.15916"
-wiki = "https://en.wikipedia.org/wiki/Slab_method"
-
-[utrecht-real-time-ray-tracing-and-editing-of-large-voxel-scenes]
-title = "Real-time Ray tracing and Editing of Large Voxel Scenes"
-url = "https://studenttheses.uu.nl/bitstream/handle/20.500.12932/20460"
-doi = "20.500.12932/20460"
 
 [sparseleap]
 title = "SparseLeap: Efficient Empty Space Skipping for Large-Scale Volume Rendering"
@@ -297,17 +535,9 @@ url = "http://www.codersnotes.com/notes/euclideon-explained/voxel-btf.pdf"
 title = "Euclideon Unlimited Detail Engine Open Source Version"
 url = "https://www.reddit.com/r/VoxelGameDev/comments/if3m8c/euclideon_unlimited_detail_engine_open_source/"
 
-[nvidia-gvdb-raytracing-sparse-voxels]
-title = "GVDB: Raytracing Sparse Voxel Database Structures on the GPU"
-url = "http://ramakarl.com/pdfs/2016_Hoetzlein_GVDB.pdf"
-
 [construction-of-voxelized-shadows]
 title = "Fast, Memory-Efficient Construction of Voxelized Shadows"
 url = "https://www.cse.chalmers.se/~uffe/Fast%20memory%20efficient%20construction%20of%20voxelized%20shadows%20TVCG.pdf"
-
-[frustum]
-title = "Frustum calculation and culling, HOPEFULLY demystified."
-url = "http://davidlively.com/programming/graphics/frustum-calculation-and-culling-hopefully-demystified/"
 
 [jojendersie-rendering-huge-amounts-of-voxels]
 title = ""
@@ -316,10 +546,6 @@ url = "http://jojendersie.de/rendering-huge-amounts-of-voxels/"
 [jojendersie-rendering-huge-amounts-of-voxels-2]
 title = ""
 url = "http://jojendersie.de/rendering-huge-amounts-of-voxels-2/"
-
-[lotsacode-perlin-noise-in-c]
-title = ""
-url = "http://lotsacode.wordpress.com/2010/02/24/perlin-noise-in-c/"
 
 [ngildea-dual-contouring-chunked-terrain]
 title = ""
@@ -349,14 +575,6 @@ url = "http://themaister.net/blog/2017/08/15/render-graphs-and-vulkan-a-deep-div
 title = ""
 url = "http://voxelgamedev.com/"
 
-[amanatides-and-woo]
-title = "A Fast Voxel Traversal Algorithm for Ray Tracing"
-url = "http://www.cse.yorku.ca/~amana/research/grid.pdf"
-
-[lighthouse3d-view-frustum-culling]
-title = ""
-url = "http://www.lighthouse3d.com/tutorials/view-frustum-culling"
-
 [opengl]
 title = "OpenGL"
 url = "http://www.opengl.org/"
@@ -372,10 +590,6 @@ url = "http://www.terathon.com/lengyel/Lengyel-VoxelTerrain.pdf"
 [accidentalnoise-minecraftworlds]
 title = "3D Cube World Level Generation"
 url = "https://accidentalnoise.sourceforge.net/minecraftworlds.html"
-
-[gamedev-archive-culling]
-title = ""
-url = "https://archive.gamedev.net/archive/reference/programming/features/culling/index.html"
 
 [gigavoxels]
 title = "GigaVoxels: Ray-Guided Streaming for Efficient and Detailed Voxel Rendering"
@@ -393,33 +607,9 @@ url = "https://bazhenovc.github.io/blog/post/d3d11-dynamic-vertex-pulling/"
 title = ""
 url = "https://bkaradzic.github.io/bgfx/overview.html#supported-rendering-backends"
 
-[bruop-frustum-culling]
-title = ""
-url = "https://bruop.github.io/frustum_culling/"
-
-[castingrays-voxel-rendering-using-discrete-ray]
-title = ""
-url = "https://castingrays.blogspot.com/2014/01/voxel-rendering-using-discrete-ray.html"
-
-[frustum-culling-tutorial]
-title = "View Frustum Culling Tutorial"
-url = "https://cgvr.cs.uni-bremen.de/teaching/cg_literatur/lighthouse3d_view_frustum_culling/index.html"
-
 [choosealicense]
 title = "Choose an open source license"
 url = "https://choosealicense.com/"
-
-[wikimedia-pinkredliquid-perlin]
-title = ""
-url = "https://en.wikipedia.org/wiki/File:Pink_red_liquid_using_perlin_noise_%2B_bump_%2B_coloring_(2415197699).png"
-
-[wikimedia-dissolve-noise-texture]
-title = ""
-url = "https://commons.wikimedia.org/wiki/File:256x256_Dissolve_Noise_Texture.png"
-
-[wikimedia-perlin-noise]
-title = ""
-url = "https://commons.wikimedia.org/wiki/File:Perlin_noise_example.png"
 
 [wikimedia-voxelgitter]
 title = ""
@@ -616,10 +806,6 @@ url = "https://en.wikipedia.org/wiki/Paint_by_number"
 title = ""
 url = "https://en.wikipedia.org/wiki/Palette_(computing)"
 
-[wikipedia-perlin-noise]
-title = ""
-url = "https://en.wikipedia.org/wiki/Perlin_noise"
-
 [wikipedia-pixel-art]
 title = ""
 url = "https://en.wikipedia.org/wiki/Pixel_art"
@@ -717,25 +903,9 @@ url = "https://favtutor.com/blogs/sliding-window-algorithm"
 title = "Cast ray to select block in voxel game"
 url = "https://gamedev.stackexchange.com/a/49423"
 
-[how-to-improve-bloxel-rendering-speed]
-title = "How can I improve rendering speeds of a Voxel/Minecraft type game?"
-url = "https://gamedev.stackexchange.com/questions/22664/how-can-i-improve-rendering-speeds-of-a-voxel-minecraft-type-game"
-
-[dda-gist]
-title = " Implementation of voxel traversal algorithm from 'A Fast Voxel Traversal Algorithm for Ray Tracing' (Amanatides and Woo)"
-url = "https://gist.github.com/garymacindoe/895430c1e53a6e50cb35"
-
 [latency]
 title = "Latency Numbers Every Programmer Should Know"
 url = "https://gist.github.com/jboner/2841832"
-
-[fastnoise2]
-title = "Modular node graph based noise generation library using SIMD, C++17 and templates"
-url = "https://github.com/Auburn/FastNoise2"
-
-[fastnoiselite]
-title = "Fast Portable Noise Library - C# C++ C Java HLSL GLSL JavaScript Rust Go"
-url = "https://github.com/Auburn/FastNoiseLite"
 
 [bgfx]
 title = "Cross-platform, graphics API agnostic, \"Bring Your Own Engine/Framework\" style rendering library"
@@ -753,10 +923,6 @@ url = "https://github.com/gfx-rs/wgpu"
 title = "WGPU: Supported Platforms"
 url = "https://github.com/gfx-rs/wgpu#supported-platforms"
 
-[opensimplex2]
-title = "Successors to OpenSimplex Noise, plus updated OpenSimplex"
-url = "https://github.com/KdotJPG/OpenSimplex2"
-
 [github-programmable-pulling]
 title = "Programmable pulling experiments (based on OpenGL Insights \"Programmable Vertex Pulling\" article by Daniel Rakos)"
 url = "https://github.com/nlguillemot/ProgrammablePulling"
@@ -773,21 +939,9 @@ url = "https://github.com/rust-windowing/winit"
 title = "Winit Features"
 url = "https://github.com/rust-windowing/winit/blob/master/FEATURES.md"
 
-[jlibnoise]
-title = "A Java port of libnoise - A portable, open-source, coherent noise-generating library"
-url = "https://github.com/Sleaker/jlibnoise"
-
-[psrdnoise]
-title = "Tiling simplex flow noise in 2-D and 3-D compatible with GLSL 1.20 (WebGL 1.0) and above"
-url = "https://github.com/stegu/psrdnoise/"
-
 [bevy-vertex-pulling]
 title = "Vertex pulling for bevy"
 url = "https://github.com/superdump/bevy-vertex-pulling"
-
-[github-topic-perlin]
-title = "GitHub Topic: Perlin Noise"
-url = "https://github.com/topics/perlin"
 
 [voxelwiki-projects]
 title = "Voxel.Wiki: Projects Listing"
@@ -817,10 +971,6 @@ url = "https://graphics.stanford.edu/~seander/bithacks.html"
 title = "Programmable Vertex Pulling"
 url = "https://hannomalie.github.io/posts/2019-12-01-programmable-vertex-pulling.html"
 
-[hiteshkrsahu-voxel-planets]
-title = "Generating Voxel Planet using 3D Simplex Noise"
-url = "https://hiteshkrsahu.medium.com/generating-voxel-planet-using-3d-simplex-noise-3ab011fd88ec"
-
 [opengl-modern-best-practices]
 title = "Best Practices for Modern OpenGL"
 url = "https://juandiegomontoya.github.io/modern_opengl.html"
@@ -837,41 +987,17 @@ url = "https://learnopengl.com/"
 title = "Learn OpenGL: Shadow Mapping"
 url = "https://learnopengl.com/Advanced-Lighting/Shadows/Shadow-Mapping"
 
-[opengl-learn-face-culling]
-title = "Learn OpenGL: Face Culling"
-url = "https://learnopengl.com/Advanced-OpenGL/Face-culling"
-
 [opengl-learn-coordinate-systems]
 title = "Learn OpenGL: Coordinate Systems"
 url = "https://learnopengl.com/Getting-started/Coordinate-Systems"
-
-[opengl-learn-frustum-culling]
-title = "Learn OpenGL: Frustum Culling"
-url = "https://learnopengl.com/Guest-Articles/2021/Scene/Frustum-Culling"
 
 [libgdx]
 title = "LibGDX"
 url = "https://libgdx.com/"
 
-[libnoise]
-title = "LibNoise"
-url = "https://libnoise.sourceforge.net"
-
-[libnoise-modules]
-title = "LibNoise: Modules"
-url = "https://libnoise.sourceforge.net/docs/modules.html"
-
-[libnoise-glossary]
-title = "LibNoise: Glossary"
-url = "https://libnoise.sourceforge.net/glossary/index.html"
-
 [lodev-cgtutor-raycasting]
 title = "Lode's Computer Graphics Tutorial"
 url = "https://lodev.org/cgtutor/raycasting.html"
-
-[noiseposting-the-perlin-problem]
-title = "The Perlin Problem: Moving Past Square Noise"
-url = "https://noiseposti.ng/posts/2022-01-16-The-Perlin-Problem-Moving-Past-Square-Noise.html"
 
 [ogre]
 title = "OGRE 3D Engine"
@@ -904,14 +1030,6 @@ url = "https://swiftcoder.wordpress.com/planets/isosurface-extraction/"
 [no-nreak-space]
 title = "No-Break Space"
 url = "https://symbl.cc/en/00A0/"
-
-[bookofshaders-noise]
-title = "The Book Of Shaders: Noise"
-url = "https://thebookofshaders.com/11/"
-
-[bookofshaders-morenoise]
-title = "The Book Of Shaders: More Noise"
-url = "https://thebookofshaders.com/12/"
 
 [bookofshaders-fbm]
 title = "The Book Of Shaders: Fractal Brownian Motion"
@@ -951,17 +1069,9 @@ url = "https://vulkan.lunarg.com/"
 title = ""
 url = "https://vulkan-tutorial.com/"
 
-[xna-wiki-voxel-traversal]
-title = "Voxel Traversal - XNA Wiki"
-url = "https://web.archive.org/web/20121024081332/www.xnawiki.com/index.php?title=Voxel_traversal"
-
 [projectorgames-history-of-voxel-games]
 title = "A brief history of Voxel games"
 url = "https://web.archive.org/web/20141226072148/http://projectorgames.net/blog/?p=168"
-
-[movingblocks-goodbye-perlin]
-title = "Goodbye Perlin Noise"
-url = "https://web.archive.org/web/20151122204631/https://blog.movingblocks.net/2011/06/11/goodbye-perlin-noise-2d-perlin-noise-3d/"
 
 [blockstory-block-engine-demystified]
 title = "Block engine demystified III -> Do I have 16 fingers or what?"
@@ -970,10 +1080,6 @@ url = "https://web.archive.org/web/20171121221839/https://www.blockstory.net/nod
 [xna-ltrees]
 title = "XNA Procedural LTrees"
 url = "https://web.archive.org/web/20180126135353/http://ltrees.codeplex.com/"
-
-[simplex-noise-demystified]
-title = "Simplex noise demystified"
-url = "https://web.archive.org/web/20230310204125if_/https://webstaff.itn.liu.se/~stegu/simplexnoise/simplexnoise.pdf"
 
 [webglfundamentals]
 title = "WebGL Fundamentals"
@@ -1067,10 +1173,6 @@ url = "https://www.minetest.net/get-involved/"
 title = "RayLib"
 url = "https://www.raylib.com/"
 
-[terrain-from-noise]
-title = "Making maps with noise functions"
-url = "https://www.redblobgames.com/maps/terrain-from-noise/"
-
 [reddit-ftb]
 title = "Feed The Beast Subreddit"
 url = "https://www.reddit.com/r/feedthebeast/"
@@ -1103,10 +1205,6 @@ url = "https://www.sfml-dev.org/faq.php#grl-platforms"
 title = "Branchless Voxel Raycasting"
 url = "https://www.shadertoy.com/view/4dX3zl"
 
-[shadertoy-4sVfWw]
-title = "Random Voxel Octree Raycasting"
-url = "https://www.shadertoy.com/view/4sVfWw"
-
 [shadertoy-7dK3D3]
 title = "Branchless Voxel Raycasting Textured"
 url = "https://www.shadertoy.com/view/7dK3D3"
@@ -1114,10 +1212,6 @@ url = "https://www.shadertoy.com/view/7dK3D3"
 [shadertoy-7stXzn]
 title = "Voxel Raycast with Sub-Objects"
 url = "https://www.shadertoy.com/view/7stXzn"
-
-[shadertoy-XddcWn]
-title = "A Fast Voxel Traversal Algorithm"
-url = "https://www.shadertoy.com/view/XddcWn"
 
 [starmade]
 title = "Starmade"
@@ -1163,18 +1257,6 @@ url = "https://www.youtube.com/watch?v=MZ2GuvUWaP8"
 title = "The ONE Texture Every Game NEEDS"
 url = "https://www.youtube.com/watch?v=sChQCdbLdHE"
 
-[youtube-ZsEnnB2wrbI]
-title = "How to turn a few Numbers into Worlds (Fractal Perlin Noise)"
-url = "https://www.youtube.com/watch?v=ZsEnnB2wrbI"
-
-[youtube-zXsWftRdsvU]
-title = "Value Noise Explained!"
-url = "https://www.youtube.com/watch?v=zXsWftRdsvU"
-
-[youtube-YyVAaJqYAfE]
-title = "How Minecraft ACTUALLY Works 💎⛏️"
-url = "https://www.youtube.com/watch?v=YyVAaJqYAfE"
-
 [zeux-efficient-vulkan-renderer]
 title = "Writing an efficient Vulkan renderer"
 url = "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/"
@@ -1182,10 +1264,6 @@ url = "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/"
 [threedscans]
 title = "Three D Scans - Free 3D scan archive"
 url = "https://threedscans.com/"
-
-[eisenwave-sparse-voxel-octree]
-title = "Sparse Voxel Octree"
-url = "https://eisenwave.github.io/voxel-compression-docs/svo/svo.html"
 
 [eisenwave-voxel-compression]
 title = "Voxel Compression"
@@ -1230,18 +1308,6 @@ url = "https://www.redblobgames.com/x/1938-square-tiling-of-sphere/"
 [intel-path-tracing-workshop]
 title = "Path-Tracing Workshop Part 1: Learn to Write a Path Tracer in GLSL"
 url = "https://www.intel.com/content/www/us/en/developer/videos/path-tracing-workshop-part-1.html#gs.5etor7"
-
-[minecraft-resourcepack-js]
-title = "@xmcl/resourcepack - npm"
-url = "https://www.npmjs.com/package/@xmcl/resourcepack?ref=morioh.com&utm_source=morioh.com"
-
-[minecraft-resourcepack-rs]
-title = "Parsing Minecraft asset files and resource packs in Rust."
-url = "https://github.com/BGR360/minecraft-assets-rs"
-
-[minecraft-mca-parser-rs]
-title = "mca-parser:  A library for parsing Minecraft's region files"
-url = "https://crates.io/crates/mca-parser"
 
 [rbs-preprint]
 title = "Fast Sorting for Exact OIT of Complex Scenes"
@@ -1457,10 +1523,6 @@ url = "https://www.researchgate.net/publication/349471767_Hierarchical_Dense_and
 title = "McGuire Computer Graphics Archive"
 url = "https://casual-effects.com/data/"
 
-[youtube-ob3VwY4JyzE]
-title = "Reinventing Minecraft world generation by Henrik Kniberg"
-url = "https://www.youtube.com/watch?v=ob3VwY4JyzE"
-
 [reac2023_scripting_language]
 title = "Scripting language? Engine language? Why not both?"
 url = "https://enginearchitecture.realtimerendering.com/downloads/reac2023_scripting_language.pdf"
@@ -1521,14 +1583,6 @@ url = "https://interplayoflight.wordpress.com/2022/05/08/increasing-wave-coheren
 title = "3D JumpFlood of Voxel texture to make Distance Field Gradient"
 url = "https://www.youtube.com/watch?v=GvI7qt3kmz4"
 
-[youtube-NjCp-HIZTcA]
-title = "Sparse Voxel Octrees"
-url = "https://www.youtube.com/watch?v=NjCp-HIZTcA"
-
-[youtube-gNZtx3ijjpo]
-title = "Animated Sparse Voxel Octrees: In-depth pt1/3"
-url = "https://www.youtube.com/watch?v=gNZtx3ijjpo"
-
 [motionforgepictures-height-maps]
 title = "Landscape Height Maps - Motion Forge Pictures"
 url = "https://www.motionforgepictures.com/height-maps/"
@@ -1549,14 +1603,6 @@ url = "https://github.com/jrouwe/JoltPhysics"
 title = "Hash Functions for GPU Rendering"
 url = "https://www.reedbeta.com/blog/hash-functions-for-gpu-rendering/"
 
-[unity-turbulence-library]
-title = "Turbulence Library - Massive collection of complex and fast noise on the GPU"
-url = "https://forum.unity.com/threads/turbulence-library-massive-collection-of-complex-and-fast-noise-on-the-gpu.143649/"
-
-[farazzshaikh-glnoise]
-title = "FarazzShaikh/glNoise: A collection of GLSL noise functions for use with WebGL with an easy to use API."
-url = "https://github.com/FarazzShaikh/glNoise"
-
 [cpp-64bit-memorymanager]
 title = "schulkinator/memorymanager: A simple, thread-safe memory manager for 64bit C++ applications and games. Focus is on preventing heap fragmentation in the absence of good virtual memory management, at the cost of wasting some memory. It works by globally overriding the new and delete operators."
 url = "https://github.com/schulkinator/memorymanager"
@@ -1564,30 +1610,6 @@ url = "https://github.com/schulkinator/memorymanager"
 [nvidia-accelerating-openvdb-on-gpus-with-nanovdb]
 title = "Accelerating OpenVDB on GPUs with NanoVDB | NVIDIA Technical Blog"
 url = "https://developer.nvidia.com/blog/accelerating-openvdb-on-gpus-with-nanovdb/"
-
-[eaosvofrtrt]
-title = "Efficient Animation of Sparse Voxel Octrees for Real-Time Ray Tracing"
-url = "https://arxiv.org/pdf/1911.06001.pdf"
-
-[voxel-traversal-algorithm-ray-casting]
-title = "Voxel Traversal Algorithm (Ray Casting) - 3D, AI, procedural generation and black jack"
-url = "https://www.gamedev.net/blogs/entry/2265248-voxel-traversal-algorithm-ray-casting/"
-
-[balintcsala-voxel-tracing]
-title = "Voxel tracing with interactive examples"
-url = "https://blog.balintcsala.com/posts/voxel-tracing/"
-
-[frtorvdudt]
-title = "Fast ray-tracing of rectilinear volume data using distance transforms"
-url = "https://www.researchgate.net/publication/3410902_Fast_ray-tracing_of_rectilinear_volume_data_using_distance_transforms"
-
-[pcaatf3dgt]
-title = "Proximity clouds - an acceleration technique for 3D grid traversal"
-url = "https://www.academia.edu/59726413/Proximity_clouds_an_acceleration_technique_for_3D_grid_traversal"
-
-[mvafaggtagtitrhtavmcm]
-title = "Macro-voxel algorithm for adaptive grid generation to accelerate grid traversal in the radiative heat transfer analysis via Monte Carlo method - ScienceDirect"
-url = "https://www.sciencedirect.com/science/article/abs/pii/S0735193317301598"
 
 [atrous]
 title = "Edge-Avoiding À-Trous Wavelet Transform for fast Global Illumination Filtering"
@@ -1645,14 +1667,6 @@ url = "https://renderdiagrams.org/"
 title = "Efficient Max-Norm Distance Computation and Reliable Voxelization"
 url = "http://gamma.cs.unc.edu/RECONS/maxnorm.pdf"
 
-[raymarching-voxels-inside-cube]
-title = "kallisto56/Raymarching-voxels-inside-cube: Shaders for raymarching voxels inside cube using fragment shader"
-url = "https://github.com/kallisto56/Raymarching-voxels-inside-cube"
-
-[youtube-XkSS_veoSg0]
-title = "Sparse Voxel Octree and Polygon hybrid"
-url = "https://www.youtube.com/watch?v=XkSS_veoSg0"
-
 [rogueviz]
 title = "HyperRogue - RogueViz"
 url = "https://roguetemple.com/z/hyper/rogueviz.php"
@@ -1661,10 +1675,6 @@ url = "https://roguetemple.com/z/hyper/rogueviz.php"
 title = "Synthetic Silviculture: Multi-scale Modeling of Plant Ecosystems"
 url = "https://storage.googleapis.com/pirk.io/projects/synthetic_silviculture/index.html"
 doi = "10.1145/3306346.3323039"
-
-[cuda-brickmap-pathtracer]
-title = "stijnherfst/BrickMap: A high performance realtime CUDA voxel path tracer"
-url = "https://github.com/stijnherfst/BrickMap"
 
 ### DEAD LINKS ###
 
